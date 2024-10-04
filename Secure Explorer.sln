@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secure Explorer", "Secure Explorer.csproj", "{2F9C0DFA-303F-485E-B720-8B6BD660BF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F9C0DFA-303F-485E-B720-8B6BD660BF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9C0DFA-303F-485E-B720-8B6BD660BF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9C0DFA-303F-485E-B720-8B6BD660BF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9C0DFA-303F-485E-B720-8B6BD660BF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4664C66C-311C-44D6-B07F-8CA36B545548}
+	EndGlobalSection
+EndGlobal
